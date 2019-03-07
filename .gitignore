@@ -1,0 +1,6 @@
+.env
+virtual/
+* .pyc
+* .json
+__pycache__
+db.sqlite3
